@@ -38,5 +38,5 @@ Role: Data Analyst || Machine Learning Engineer @ GeoDataTek
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishva-23&theme=tokyonight)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/vishvaks2306?ext=contest&theme=dark)](https://leetcode.com/u/vishvaks2306/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/vishvaks2306?ext=contest&theme=dark)
 
