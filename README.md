@@ -1,9 +1,18 @@
-## Hi there 👋 It's me Vishvasundar
-![](https://komarev.com/ghpvc/?username=Vishva-23&label=PROFILE+VIEWS)
+<div align="center">
+  <h2 style="color: #0366d6; font-weight: bold;">Hi there 👋 It's me Vishvasundar</h2>
+
+  <img src="https://komarev.com/ghpvc/?username=Vishva-23&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+![Image Alt Text](https://i.ibb.co/k24415b/Github-Banner.gif)
+
+Role: Data Analyst || Machine Learning Engineer @ GeoDataTek
+=============================================================
 
 
-**Role**: Data Analyst || Machine Learning Engineer @ GeoDataTek
- <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 50;" />
+
 
 ### About Me
 
