@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="color: #0366d6; font-weight: bold;">Hi there 👋 It's me Vishvasundar</h2>
+  <h2 style="color: #0366d6; font-weight: bold;">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> It's me Vishvasundar</h2>
 
   <img src="https://komarev.com/ghpvc/?username=Vishva-23&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
