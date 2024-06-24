@@ -10,7 +10,6 @@ Role: Data Analyst || Machine Learning Engineer @ GeoDataTek
 =============================================================
 
 
-
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 50;" />
 
 
